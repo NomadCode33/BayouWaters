@@ -3,6 +3,8 @@ Write a short sentence or two about this project and what it does. Be sure to in
 
 **Project Link:** https://t3ch12et.github.io/New-Orleans-Flood-Analysis/
 
+https://www.figma.com/file/aFlpzHJg4MToRVFaCkaqFC/Project-Design?type=design&node-id=0-1&mode=design (Include this with the "How it's made part" New Orleans Draft Outline
+
 ## Introduction
 
 For our project we will examine hurricane flooding in New Orleans. New Orleans is located just off of the Gulf of Mexico, a tropical storm generating body of water. Due to New Orleans location, and its general topography being relatively low with some areas below sea level, it is very vulnerable to hurricanes. In 2005, the city was hit by Hurricane Katrina, (facts here, discuss displacement and destruction). With the onset of global warming causing more extreme weather events around the world, it becomes increasingly important to equip cities like New Orleans with tools to mitigate and respond to these natural disasters which may become more frequent and intense with time. Using our skills as cartographers, we aim to examine the city and the risk posed by future hurricanes to provide a tool for potential damage mitigation and emergency response development.
