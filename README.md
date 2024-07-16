@@ -3,7 +3,7 @@ Write a short sentence or two about this project and what it does. Be sure to in
 
 **Project Link:** https://t3ch12et.github.io/New-Orleans-Flood-Analysis/
 
-[New Orleans Draft Outline](https://www.figma.com/file/aFlpzHJg4MToRVFaCkaqFC/Project-Design?type=design&node-id=0-1&mode=design) (Include this with the "How it's made part" New Orleans Draft Outline)
+
 
 ## Introduction
 
@@ -20,6 +20,8 @@ Negative impacts could include policy-makers choosing to invest less in zones de
 **Tech used:** HTML, CSS, JavaScript, GitHub, Mapbox, Figma
 
 Here's where you can go to town on how you actually built this thing. Write as much as you can here, it's totally fine if it's not too much just make sure you write *something*. If you don't have too much experience on your resume working on the front end that's totally fine. This is where you can really show off your passion and make up for that ten fold.
+
+[New Orleans Draft Outline](https://www.figma.com/file/aFlpzHJg4MToRVFaCkaqFC/Project-Design?type=design&node-id=0-1&mode=design)
 
 ## Optimizations
 *(optional)*
