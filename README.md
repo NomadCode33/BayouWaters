@@ -3,7 +3,7 @@ Write a short sentence or two about this project and what it does. Be sure to in
 
 **Project Link:** https://t3ch12et.github.io/New-Orleans-Flood-Analysis/
 
-[New Orleans Draft Outline]https://www.figma.com/file/aFlpzHJg4MToRVFaCkaqFC/Project-Design?type=design&node-id=0-1&mode=design (Include this with the "How it's made part" New Orleans Draft Outline
+[New Orleans Draft Outline](https://www.figma.com/file/aFlpzHJg4MToRVFaCkaqFC/Project-Design?type=design&node-id=0-1&mode=design (Include this with the "How it's made part" New Orleans Draft Outline)
 
 ## Introduction
 
