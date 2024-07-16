@@ -17,7 +17,7 @@ Negative impacts could include policy-makers choosing to invest less in zones de
 
 ## How It's Made:
 
-**Tech used:** HTML, CSS, JavaScript,
+**Tech used:** HTML, CSS, JavaScript, Figma
 
 Here's where you can go to town on how you actually built this thing. Write as much as you can here, it's totally fine if it's not too much just make sure you write *something*. If you don't have too much experience on your resume working on the front end that's totally fine. This is where you can really show off your passion and make up for that ten fold.
 
@@ -30,26 +30,7 @@ You don't have to include this section but interviewers *love* that you can not 
 
 No matter what your experience level, being an engineer means continuously learning. Every time you build something you always have those *whoa this is awesome* or *wow I actually did it!* moments. This is where you should share those moments! Recruiters and interviewers love to see that you're self-aware and passionate about growing.
 
-## Repositories
-**Profile:** [T3ch12et](https://github.com/T3ch12et)
-
-**New Orleans Project Repository:** [New Orleans Flood Analysis]()
-
-**Main Repository:** [GIS Data Science Portfolio](https://github.com/T3ch12et/GIS-Data-Science-Portfolio)
-
-
-## Examples:
-Take a look at these couple examples that I have in my own portfolio:
-
-**Palettable:** https://github.com/alecortega/palettable
-
-**Twitter Battle:** https://github.com/alecortega/twitter-battle
-
-**Patch Panel:** https://github.com/alecortega/patch-panel
-
-
 ## Data Sources
-
 * Nola Hurricane water level increase and flood data - for developing risk zone levels [Nola Storm Surge](https://ready.nola.gov/hazard-mitigation/hazards/storm-surge-and-coastal-flooding/#:~:text=The%20damages%20caused%20by%20Hurricane%20Katrina%20demonstrate%20that,the%20south%20shore%20in%20Jefferson%20and%20Orleans%20Parishes)
 
 * SRTM elevation data - for use in applying flood risk zones to New Orleans (assets)
@@ -69,3 +50,21 @@ Take a look at these couple examples that I have in my own portfolio:
 * [New Orleans History](https://www.britannica.com/place/New-Orleans-Louisiana)
 
 * [New Orleans Topography](https://en-us.topographic-map.com/maps/q8su/New-Orleans/#:~:text=Name%3A%20New%20Orleans%20topographic%20map%2C%20elevation%2C%20relief.%20Coordinates%3A,Maximum%20elevation%3A%20821%20ft%20Average%20elevation%3A%203%20ft)
+
+
+## Repositories
+**Profile:** [T3ch12et](https://github.com/T3ch12et)
+
+**New Orleans Project Repository:** [New Orleans Flood Analysis]()
+
+**Main Repository:** [GIS Data Science Portfolio](https://github.com/T3ch12et/GIS-Data-Science-Portfolio)
+
+
+## Examples:
+Take a look at these couple examples that I have in my own portfolio:
+
+**Palettable:** https://github.com/alecortega/palettable
+
+**Twitter Battle:** https://github.com/alecortega/twitter-battle
+
+**Patch Panel:** https://github.com/alecortega/patch-panel
