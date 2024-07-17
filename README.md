@@ -13,7 +13,6 @@ The intended audience of the project are residents of the area, and also any eme
 
 Positive impacts of the project are better preparing residents of New Orleans for future hurricanes, as well as giving policy-makers and emergency responders better tools to understand the nature of hurricanes and flooding in New Orleans to better protect the population and reduce damage and risk to public safety. Impacts could also include the development of new infrastructure to better aid in emergency situations. Negative impacts could include policy-makers choosing to invest less in zones deemed at high risk for flooding, which could worsen socio-economic disparities in the city and put lives at greater risk. We could attempt to avoid this by emphasizing the need to invest in higher risk zones to bring down overall risk in the city.
 
-[New Orleans Draft Outline](https://www.figma.com/file/aFlpzHJg4MToRVFaCkaqFC/Project-Design?type=design&node-id=0-1&mode=design)
 ## How It's Made:
 
 **Tech used:** HTML, CSS, JavaScript, Visual Studio, GitHub, Mapbox, Figma
@@ -24,7 +23,7 @@ To support our claims, we researched key sources, developing plans to help polic
 
 We faced challenges during the project. With limited flood data available, we had to create a map ourselves using Mapbox. Finding emergency shelter locations was difficult until I found the necessary data on the Red Cross website.
 
-We then created our website using HTML, CSS, and JavaScript. Here’s how the site was structured:
+We then created our website using HTML, CSS, and JavaScript using Visual Studio. Here’s how the site was structured:
 
 1. **Document Type and Structure**:
    - `<!DOCTYPE html>` declares the document as HTML5.
@@ -53,11 +52,11 @@ Our website seamlessly integrates text, images, styling, and interactive element
 
 ## Optimizations
 
-You don't have to include this section but interviewers *love* that you can not only deliver a final product that looks great but also functions efficiently. Did you write something then refactor it later and the result was 5x faster than the original implementation? Did you cache your assets? Things that you write in this section are **GREAT** to bring up in interviews and you can use this section as reference when studying for technical interviews!
+During the project, we implemented several optimizations to enhance efficiency and accuracy. Initially, we faced challenges with limited flood data, which led us to create custom maps using Mapbox, ensuring our flood risk assessments were precise and up-to-date. To streamline the integration of diverse data sources, we developed a methodical approach to data aggregation, combining hurricane water level information, SRTM elevation data, and New Orleans lot and population data. This allowed us to produce a detailed and multi-faceted flood risk map. In terms of technical development, we optimized our website by linking external CSS and JavaScript libraries, such as scrollama and mapbox-gl, to enable interactive scrolling and map rendering. We also ensured the website's responsiveness across different devices by carefully configuring metadata and viewport settings. Additionally, by embedding interactive maps and narratives within the site, we created an engaging user experience that effectively communicated our findings and facilitated user interaction with the data. These optimizations not only improved the functionality of our project but also made the final product more accessible and informative for policymakers and the general public.
 
 ## Lessons Learned:
 
-No matter what your experience level, being an engineer means continuously learning. Every time you build something you always have those *whoa this is awesome* or *wow I actually did it!* moments. This is where you should share those moments! Recruiters and interviewers love to see that you're self-aware and passionate about growing.
+Throughout this project, we gained invaluable insights into the complexities of flood risk management in New Orleans. We began by meticulously outlining our objectives, emphasizing the importance of addressing the heightened risk of extreme weather events due to global warming. As cartographers, our goal was to assess the city's vulnerability to future hurricanes and develop a tool for effective damage mitigation and emergency response. This project underscored the necessity of thorough research and data analysis, as we explored sources ranging from hurricane water levels to population demographics and income data. Despite facing challenges such as limited flood data, we adapted by creating our own maps using Mapbox and locating emergency shelter information through persistent efforts. The process of building our website with HTML, CSS, and JavaScript further reinforced the importance of integrating technical skills with subject matter expertise. Ultimately, this project highlighted the critical role of comprehensive planning and innovative solutions in enhancing urban resilience against natural disasters.
 
 ## Data Sources
 * Nola Hurricane water level increase and flood data - for developing risk zone levels [Nola Storm Surge](https://ready.nola.gov/hazard-mitigation/hazards/storm-surge-and-coastal-flooding/#:~:text=The%20damages%20caused%20by%20Hurricane%20Katrina%20demonstrate%20that,the%20south%20shore%20in%20Jefferson%20and%20Orleans%20Parishes)
@@ -90,8 +89,22 @@ No matter what your experience level, being an engineer means continuously learn
 ## Examples:
 Take a look at these couple examples that I have in my own portfolio:
 
-**Palettable:** https://github.com/alecortega/palettable
+**West Seattle Light Rail Survey:** [West Seattle Light Rail Survey](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/Furtado-and-Associates-Projects/West%20Seattle%20Light%20Rail%20Survey)
 
-**Twitter Battle:** https://github.com/alecortega/twitter-battle
+**Sumner Boundary Map:** [Sumner Boundary Map](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/Furtado-and-Associates-Projects/Sumner%20Boundary%20Map)
 
-**Patch Panel:** https://github.com/alecortega/patch-panel
+**Athens Heat Risk Index:** [Athens Heat Risk Index](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/ESRI-MOOC-GIS-for-Climate-Action/Athens-Heat-Risk-Index)
+
+**Coral Reef Dashboard:** [Coral Reef Dashboard](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/ESRI-MOOC-GIS-for-Climate-Action/Coral-Reef-Dashboard)
+
+**Rondonia Land Cover Change:** [Rondonia Land Cover Change from 1992 to 2020](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/ESRI-MOOC-GIS-for-Climate-Action/Rondonia-Land-Cover-Change)
+
+**Map of Massachusetts:** [Map of Massachusetts](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/ESRI-MOOC-Cartography/Map-of-Massachusetts)
+
+**Map of New York:** [Map of New York](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/ESRI-MOOC-Cartography/Map-of-New-York)
+
+**Spilhaus Layout:** [Spilhaus Layout Map](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/ESRI-MOOC-Cartography/Spilhaus-Layout)
+
+**Lynnwood Right-of-Way:** [Lynnwood Right-of-Way](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/Furtado-and-Associates-Projects/Lynnwood%20Right-of-Way)
+
+**Bothell Bus Base North:** [Bothell Bus Base North](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/Furtado-and-Associates-Projects/Bothell%20Bus%20Base%20North)
