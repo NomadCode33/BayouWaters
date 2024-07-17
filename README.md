@@ -1,5 +1,5 @@
 # New Orleans Flood Mapping Project (Post Hurricane Data Analysis)
-Write a short sentence or two about this project and what it does. Be sure to include a link and a screenshot (we're front end devs so we can actually see our work!).
+This group project examines hurricane flooding in New Orleans, a city vulnerable due to its low topography and proximity to the Gulf of Mexico. By using cartographic skills, we aimed to help residents, emergency responders, and policymakers better prepare for and mitigate future hurricane damage, though it is crucial to emphasize investing in high-risk zones to prevent exacerbating socio-economic disparities.
 
 **Project Link:** https://t3ch12et.github.io/New-Orleans-Flood-Analysis/
 
@@ -11,8 +11,7 @@ For our project we will examine hurricane flooding in New Orleans. New Orleans i
 
 The intended audience of the project are residents of the area, and also any emergency responding groups. City and state offices and policy-makers are likewise an important audience as a powerful agent in enacting fiscally sourced change such as infrastructure development.
 
-Positive impacts of the project are better preparing residents of New Orleans for future hurricanes, as well as giving policy-makers and emergency responders better tools to understand the nature of hurricanes and flooding in New Orleans to better protect the population and reduce damage and risk to public safety. Impacts could also include the development of new infrastructure to better aid in emergency situations.
-Negative impacts could include policy-makers choosing to invest less in zones deemed at high risk for flooding, which could worsen socio-economic disparities in the city and put lives at greater risk. We could attempt to avoid this by emphasizing the need to invest in higher risk zones to bring down overall risk in the city.
+Positive impacts of the project are better preparing residents of New Orleans for future hurricanes, as well as giving policy-makers and emergency responders better tools to understand the nature of hurricanes and flooding in New Orleans to better protect the population and reduce damage and risk to public safety. Impacts could also include the development of new infrastructure to better aid in emergency situations. Negative impacts could include policy-makers choosing to invest less in zones deemed at high risk for flooding, which could worsen socio-economic disparities in the city and put lives at greater risk. We could attempt to avoid this by emphasizing the need to invest in higher risk zones to bring down overall risk in the city.
 
 
 ## How It's Made:
