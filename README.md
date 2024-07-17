@@ -3,7 +3,7 @@ Write a short sentence or two about this project and what it does. Be sure to in
 
 **Project Link:** https://t3ch12et.github.io/New-Orleans-Flood-Analysis/
 
-<img src="./" img alt = "New Orleans Flood Risk Website"/>
+<img src="./COVID Cases Interactive Map.gif" img alt = "New Orleans Flood Risk Website"/>
 
 ## Introduction
 
