@@ -13,14 +13,43 @@ The intended audience of the project are residents of the area, and also any eme
 
 Positive impacts of the project are better preparing residents of New Orleans for future hurricanes, as well as giving policy-makers and emergency responders better tools to understand the nature of hurricanes and flooding in New Orleans to better protect the population and reduce damage and risk to public safety. Impacts could also include the development of new infrastructure to better aid in emergency situations. Negative impacts could include policy-makers choosing to invest less in zones deemed at high risk for flooding, which could worsen socio-economic disparities in the city and put lives at greater risk. We could attempt to avoid this by emphasizing the need to invest in higher risk zones to bring down overall risk in the city.
 
-
+[New Orleans Draft Outline](https://www.figma.com/file/aFlpzHJg4MToRVFaCkaqFC/Project-Design?type=design&node-id=0-1&mode=design)
 ## How It's Made:
 
 **Tech used:** HTML, CSS, JavaScript, Visual Studio, GitHub, Mapbox, Figma
 
-We first drafted an outline of what we wanted to talk about, that thing was the Flood Risk in New Orleans. With the onset of global warming causing more extreme weather events around the world, it becomes increasingly important to equip cities like New Orleans with tools to mitigate and respond to these natural disasters which may become more frequent and intense with time. Using our skills as cartographers, we aim to examine the city and the risk posed by future hurricanes to provide a tool for potential damage mitigation and emergency response development. We then looked up crucial sources to corroborate our claim and come up with plans to help policy-makers to come up with preventative measures and invest in zones that will help reduce flooding. The sources we used were NOLA hurricane water level increase and flood data for developing risk zone levels, SRTM elevation for use i applying flood risk zones to New Orleans (assets), New Orleans lot data for development of flood risk map from the New Orleans Open Data, NOLA population by block group for population analysis, Income dataset for the census tracts, NOLA ready about the hazards and coastal erosion, failure of levees whch are walls aritficial or natural that block out water, New Orleans Floodwalls, New Orleans Histry, New Orleans Topography, and also the location of emergency shelters. We also planned out a draft before our final product which is located in the [New Orleans Draft Outline](https://www.figma.com/file/aFlpzHJg4MToRVFaCkaqFC/Project-Design?type=design&node-id=0-1&mode=design).
+We began by outlining our project, focusing on flood risk in New Orleans. With the increasing impact of global warming causing more extreme weather events, it's crucial to equip cities like New Orleans with the tools to mitigate and respond to these natural disasters. As cartographers, we aimed to examine the city and the risk posed by future hurricanes to create a tool for damage mitigation and emergency response planning.
 
-We ran into some complications during the project. There weren't many datasets that held flood data so we had to create a map ourselves on Mapbox using flood risk data. For my role of the project, I was also having a rough time searching for emergency shelters to put on our project ubntil I looked really hard and found the shelter locations for New Orleans on the Red Cross website that will outline where people will go when a natural disaster like flooding happens.
+To support our claims, we researched key sources, developing plans to help policymakers invest in preventative measures. We used data on hurricane water levels, SRTM elevation for flood risk zones, New Orleans lot data from the Open Data portal, population by block group, income census tracts, information from NOLA Ready about hazards and coastal erosion, details on levee failures, and the locations of emergency shelters. We drafted a preliminary outline, available in our [New Orleans Draft Outline](https://www.figma.com/file/aFlpzHJg4MToRVFaCkaqFC/Project-Design?type=design&node-id=0-1&mode=design).
+
+We faced challenges during the project. With limited flood data available, we had to create a map ourselves using Mapbox. Finding emergency shelter locations was difficult until I found the necessary data on the Red Cross website.
+
+We then created our website using HTML, CSS, and JavaScript. Here’s how the site was structured:
+
+1. **Document Type and Structure**:
+   - `<!DOCTYPE html>` declares the document as HTML5.
+   - The `<html>`, `<head>`, and `<body>` tags define the structure.
+
+2. **Metadata**:
+   - `<meta>` tags provide document metadata, such as character encoding (`utf-8`), description, compatibility, and viewport settings for responsive design.
+
+3. **Title and Favicon**:
+   - `<title>` sets the webpage title to "New Orleans Flood Analysis".
+   - `<link>` with `rel="icon"` specifies the favicon for the website.
+
+4. **Styling and Scripts**:
+   - External CSS (`main.css`) and JavaScript libraries (`scrollama` and `mapbox-gl`) enable interactive scrolling and map rendering.
+
+5. **Content Sections**:
+   - **Introduction (`<section id="cover">`)**: An engaging introduction with a background image of New Orleans and text describing its vulnerability to hurricanes and flood protection measures. The team members are also introduced here.
+   - **Hurricane Impact (`<section id="damage_section">`)**: Detailed information on hurricanes Katrina and Ida, illustrated with before-and-after images and external source attributions. The section highlights Katrina's devastation and the ongoing threat to the city.
+   - **Geonarrative (`<section id="geonarrative">`)**: Interactive maps and narratives covering emergency plans, demographic comparisons, flood risk mapping, and environmental impacts. Each scene includes detailed text and interactive elements managed by JavaScript.
+   - **Conclusion (`<section id="footer">`)**: Summarizes the project and provides additional information. It includes an image, explanations of geographical challenges, and a call-to-action for future flood mitigation efforts.
+
+6. **JavaScript Interaction**:
+   - JavaScript code initializes and configures interactive elements like maps, adjusts layouts based on window resizing, and manages scroll-based interactions.
+
+Our website seamlessly integrates text, images, styling, and interactive elements to create an engaging and informative experience. It highlights New Orleans' complex relationship with water and the ongoing battle against natural disasters. Through dynamic maps and interactive features, the site educates and inspires action towards building more sustainable and resilient cities in the face of a changing climate.
 
 ## Optimizations
 
