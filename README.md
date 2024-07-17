@@ -18,12 +18,11 @@ Positive impacts of the project are better preparing residents of New Orleans fo
 
 **Tech used:** HTML, CSS, JavaScript, Visual Studio, GitHub, Mapbox, Figma
 
-Here's where you can go to town on how you actually built this thing. Write as much as you can here, it's totally fine if it's not too much just make sure you write *something*. If you don't have too much experience on your resume working on the front end that's totally fine. This is where you can really show off your passion and make up for that ten fold.
+We first drafted an outline of what we wanted to talk about, that thing was the Flood Risk in New Orleans. With the onset of global warming causing more extreme weather events around the world, it becomes increasingly important to equip cities like New Orleans with tools to mitigate and respond to these natural disasters which may become more frequent and intense with time. Using our skills as cartographers, we aim to examine the city and the risk posed by future hurricanes to provide a tool for potential damage mitigation and emergency response development. We then looked up crucial sources to corroborate our claim and come up with plans to help policy-makers to come up with preventative measures and invest in zones that will help reduce flooding. The sources we used were NOLA hurricane water level increase and flood data for developing risk zone levels, SRTM elevation for use i applying flood risk zones to New Orleans (assets), New Orleans lot data for development of flood risk map from the New Orleans Open Data, NOLA population by block group for population analysis, Income dataset for the census tracts, NOLA ready about the hazards and coastal erosion, failure of levees whch are walls aritficial or natural that block out water, New Orleans Floodwalls, New Orleans Histry, New Orleans Topography, and also 
 
 [New Orleans Draft Outline](https://www.figma.com/file/aFlpzHJg4MToRVFaCkaqFC/Project-Design?type=design&node-id=0-1&mode=design)
 
 ## Optimizations
-*(optional)*
 
 You don't have to include this section but interviewers *love* that you can not only deliver a final product that looks great but also functions efficiently. Did you write something then refactor it later and the result was 5x faster than the original implementation? Did you cache your assets? Things that you write in this section are **GREAT** to bring up in interviews and you can use this section as reference when studying for technical interviews!
 
