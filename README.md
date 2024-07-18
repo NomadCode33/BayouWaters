@@ -105,7 +105,7 @@ Take a look at these couple examples that I have in my own portfolio:
 
 
 ## Repositories
-**Profile:** [T3ch12et](https://github.com/T3ch12et)
+**Profile:** https://github.com/T3ch12et
 
-**Main Repository:** [GIS Data Science Portfolio](https://github.com/T3ch12et/GIS-Data-Science-Portfolio)
+**Main Repository:** https://github.com/T3ch12et/GIS-Data-Science-Portfolio
 
