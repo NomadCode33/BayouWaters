@@ -3,7 +3,7 @@ This group project examines hurricane flooding in New Orleans, a city vulnerable
 
 **Link to Project:** https://NomadCode33.github.io/New-Orleans-Flood-Analysis/
 
-<img src="https://github.com/NomadCode33/git-lfs/blob/main/New%20Orleans%20Flood%20Risk.gif" img alt = "New Orleans Flood Risk Website"/>
+<img src="https://github.com/NomadCode33/git-lfs/blob/main/Portfolio%20GIFs/New-Orleans-Flood-Analysis/New%20Orleans%20Flood%20Risk.gif" img alt = "New Orleans Flood Risk Website"/>
 
 ## Introduction
 
