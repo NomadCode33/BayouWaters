@@ -82,13 +82,13 @@ Throughout this project, we gained invaluable insights into the complexities of 
 ## Examples:
 Take a look at these couple examples that I have in my own portfolio:
 
-**Oso Mudslide:** [Oso Mudslide](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/ESRI-MOOC-Cartography/Oso-Mudslide)
+**Oso Mudslide:** [Oso Mudslide](https://github.com/NomadCode33/GIS-Data-Science-Portfolio/tree/main/ESRI-MOOC-Cartography/Oso-Mudslide)
 
-**Population Map:** [Population Interactive Map](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/Population-Interactive-Map)
+**Population Map:** [Population Interactive Map](https://github.com/NomadCode33/GIS-Data-Science-Portfolio/tree/main/Population-Interactive-Map)
 
-**Climate Change Website:** [Climate Change App](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/Climate-Change/project-app-T3ch12et)
+**Climate Change Website:** [Climate Change App](https://github.com/NomadCode33/GIS-Data-Science-Portfolio/tree/main/Climate-Change/project-app-T3ch12et)
 
 ## Repositories
-**Profile:** https://github.com/T3ch12et
+**Profile:** https://github.com/NomadCode33
 
-**Main Repository:** https://github.com/T3ch12et/GIS-Data-Science-Portfolio
+**Main Repository:** https://github.com/NomadCode33/GIS-Data-Science-Portfolio
